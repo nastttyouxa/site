@@ -1,0 +1,20 @@
+			body {
+				background-image: url("background.jpg");
+			}
+			#tabl {
+				width:100%;
+				max-width: 1024px;
+				height:300px;
+				margin: auto;
+				background-color: #FFFFE0;
+				border-collapse:collapse;
+			}
+			td { 
+				padding: 20px;
+				vertical-align: top;
+				border: solid 1px #A0522D;
+				}
+			h1 {
+				font-family: Comic Sans MS;
+				font-size: 40px;
+				color: #A0522D;
